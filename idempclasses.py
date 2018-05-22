@@ -1,5 +1,5 @@
 """
-Subject: Classes calculator for given 'n' (MATH 601)
+Subject: Classes calculator for given 'n'
 Author: Arjan Gupta
 Created on: 4/16/2016
 """
